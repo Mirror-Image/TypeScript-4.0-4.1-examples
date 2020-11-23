@@ -4,7 +4,7 @@
   "description": "TypeScript examples",
   "main": "webpack.config.js",
   "dependencies": {
-    "typescript": "^4.0.5"
+    "typescript": "^4.1.2"
   },
   "devDependencies": {
     "webpack": "^5.6.0",
